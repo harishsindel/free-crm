@@ -28,7 +28,8 @@ public class Test1 extends TestBase{
 
 	@Test
 	public void sample(){
-		driver.get("www.javatpoint.com");		
+		driver.get("www.javatpoint.com");	
+		// Test Comment
 	}
 	
 	@AfterMethod
